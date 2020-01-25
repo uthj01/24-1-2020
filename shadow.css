@@ -1,0 +1,31 @@
+p{
+	text-shadow: 2px 2px red;
+}
+h1{
+	text-shadow: 2px 2px red;
+}
+h2{
+	text-shadow: 2px 2px red;
+}
+h3{
+	text-shadow: 0 0 3px 0 0 5px green;
+}
+.box{
+	height: 200px;
+	width: 400px;
+	box-shadow: 10px 10px;
+}
+.box1{
+	height: 200px;
+	width: 400px;
+	box-shadow: 10px 10px red;
+}
+.box2{
+	height: 200px;
+	width: 400px;
+	box-shadow: 10px 10px yellow;
+}
+.box3{
+	height: 200px;
+	width: 400px;
+	box-shadow: 10px 10px 20px blue;

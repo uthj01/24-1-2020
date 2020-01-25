@@ -1,0 +1,26 @@
+p{
+	column-count: 4;
+	column-width: 100px;
+	column-rule-style: dotted;
+	column-rule-color: blue;
+	column-rule-width: 2px;
+	column-gap: 40px;
+}
+.grad{
+	background:linear-gradient(red,yellow);
+	height:500px;
+	}
+.grada{
+	background:linear-gradient(to right,red,yellow);
+	height:500px;
+	width: 20px;
+}
+.gradc{
+	background:linear-gradient(to right,red,yellow,green,indigo,violet);
+	height:500px;
+	width: 20px;
+}
+.ca{
+	background: linear-gradient(circle,red,yellow,green);
+	height: 200px
+}
